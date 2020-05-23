@@ -1,0 +1,5 @@
+This file is a testing firmware program for 4 connected actuators using the standard stepper library.
+
+The program takes a serial input of an integer in the form of a distance and then performs that actuation.
+
+This is mostly a test program to ensure all four actuators can operate simultaneously. 
