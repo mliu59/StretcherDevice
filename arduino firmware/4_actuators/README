@@ -1,0 +1,7 @@
+This file is a testing firmware program for 4 connected actuators using the standard stepper library.
+
+The program takes a serial input of an integer in the form of a distance and then performs that actuation.
+
+The input can come directly from the IDE, or through the USB COM port with a C++ program (see c++ code in parent folder)
+
+Program can also be used to test if the 4 actuators can work together simultaneously. 
